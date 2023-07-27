@@ -1,0 +1,11 @@
+id;apellidos_nombre;vacuna;fecha_dosis_1;fecha_dosis_2;fecha_dosis_3;
+0001TQS;Catala Pellicer, Alberto;Pfizer;2021/10/15;2021/12/22;;
+0001WQH;Marti Gisbert, Alejandro;Pfizer;2021/10/4;2021/12/5;;
+0002JTX;Castillo Vilaplana, Daniel;Pfizer;2021/4/25;2021/6/2;2021/12/8;
+0002MDM;Ferris Rovira, Nuria;Moderna;2021/1/20;2021/3/10;2021/9/20;
+0005PZF;Miguel Bou, Arantxa;Moderna;2021/6/17;2021/8/18;;
+0006HYR;Dura Lasanta, Carlos Diego;Pfizer;2021/12/9;;;
+0007LRV;Santos Trujillo, Victor;Moderna;2021/3/5;2021/5/3;2021/11/9;
+0009LFP;Sanz Rovira, Carlos Diego;Pfizer;2021/7/4;2021/9/13;;
+0012VRY;Dolz Boix, Adrian;Pfizer;2021/12/16;;;
+0014FGV;Ferris Sobrino, Oscar;Pfizer;2021/4/16;2021/6/25;2021/12/22;
